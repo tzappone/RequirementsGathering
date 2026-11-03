@@ -3,7 +3,7 @@
 System requirements were gathered for a group project that built a system for a local non-profit, Pets4Life. The requirements gathered were both functional and non-functional.
 
 # 1.1. A Stripe Donation Requirements
-ID: SR001- The Stripe Donation Module will allow donations to be made.
+* ID: SR001- The Stripe Donation Module will allow donations to be made.
 ID: SR002- The Stripe Donation Module will allow donors to select an amount to donate.
 ID: SR003- The Stripe Donation Module will allow donors to make a one-time donation
 ID: SR004- The Stripe Donation Module will allow donors to set up a recurring donation.
